@@ -1,11 +1,8 @@
 ---
 published: true
----
-
----
 layout: post
-title:  "새로운 시작"
-date:   2016-09-02 15:33:35 +0900
+title: 새로운 시작
+date: '2016-09-02 15:33:35 +0900'
 categories: default
 ---
 
