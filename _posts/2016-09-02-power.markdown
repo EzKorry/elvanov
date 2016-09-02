@@ -2,6 +2,7 @@
 published: true
 title: 새로운 시작의 테스트들.
 layout: post
+date: '2016-09-02 14:56:37 +0900'
 ---
 ## 안녕하신가!
 
