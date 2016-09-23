@@ -5,5 +5,4 @@ layout: post
 ---
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.![1.jpg]({{site.baseurl}}/_posts/1.jpg)
-
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.![만화1]({{site.baseurl}}/_posts/1.jpg)
