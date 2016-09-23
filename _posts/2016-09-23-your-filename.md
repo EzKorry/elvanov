@@ -1,5 +1,7 @@
 ---
 published: false
+title: 지진전조현상에 대해 알아보자.araboja
+layout: post
 ---
 ## A New Post
 
