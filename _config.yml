@@ -24,6 +24,8 @@ url: "http://elvanov.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+
 # Build settings
 markdown: kramdown
 theme: minima
+exclude: [vendor]
