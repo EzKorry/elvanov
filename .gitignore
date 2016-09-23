@@ -2,3 +2,4 @@ _site
 .sass-cache
 .jekyll-metadata
 netlify-git-api.exe
+Gemfile.lock
