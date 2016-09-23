@@ -2,6 +2,8 @@
 published: false
 title: 지진전조현상에 대해 알아보자.araboja
 layout: post
+date: '2016-09-23 10:42:20 +0900'
+categories: jekyll update
 ---
 ## A New Post
 
